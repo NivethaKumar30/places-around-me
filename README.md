@@ -32,7 +32,7 @@ map.html
 <font color="red"><b>MY CITY</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>NIVETHA KS(22009186)</b></font>
+<font color="blue"><b>NIVETHA K(22009186)</b></font>
 </h3>
 <center>
 <img src="/static/images/my city.jpg"usemap="#MyCity" height="420" width="1100">
