@@ -177,7 +177,16 @@ Oxaliss International School is run by the reputable management of “Kalap Viru
 </html>
 ```
 ## Output:
-Include your output screenshot here
+![01](https://user-images.githubusercontent.com/119559844/215734803-92e5d8a2-45ce-4e75-8862-be166fbeea38.png)
+
+![02](https://user-images.githubusercontent.com/119559844/215735029-184fbc8e-593c-49dc-bba3-be1c77649d1a.png)
+
+![03](https://user-images.githubusercontent.com/119559844/215735106-6e05d380-a808-4484-b385-b8a1593fac6c.png)
+
+![04](https://user-images.githubusercontent.com/119559844/215735192-ce15e82c-0911-4d9a-9892-998a73fdbe6d.png)
+
+![05](https://user-images.githubusercontent.com/119559844/215735256-052bd9c6-cfdd-4562-974c-4370bd368808.png)
+
 
 ## Result:
 The program for implemented image map is executed succussfully
